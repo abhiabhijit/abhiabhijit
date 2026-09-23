@@ -23,6 +23,7 @@ The thesis: instructions guide behaviour, but only independent runtime controls 
 
 - 🛡️ **Windows kernel engineer** — Norton NIS, WFP (Windows Filtering Platform); kernel code shipped on 20M+ endpoints; drivers through WHQL
 - 🏢 **Ex-NortonLifeLock** — enterprise endpoint security
+- 🔐 **Upfort (YC-backed)** — security engineering in cyber insurance
 - 🎓 **Stanford** — Advanced Cyber Security Program
 - 🚀 **DraperU** founder program
 
