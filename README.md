@@ -52,7 +52,7 @@ The thesis: instructions guide behaviour, but only independent runtime controls 
 
 ## Reach me
 
-- 📧 abhijitastlar@gmail.com
+- 📧 abhijit@ringzerosecurity.com
 - 𝕏 [@cyb3r_batman](https://x.com/cyb3r_batman)
 - 🌐 [ringzerosecurity.com](https://ringzerosecurity.com)
 
