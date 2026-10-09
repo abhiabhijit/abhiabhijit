@@ -47,7 +47,7 @@ The thesis: instructions guide behaviour, but only independent runtime controls 
 
 ## Stats
 
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringzersec&show_icons=true)
+![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ringzerosec&show_icons=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiabhijit&layout=compact)
 
 ## Reach me
