@@ -26,6 +26,7 @@ The thesis: instructions guide behaviour, but only independent runtime controls 
 - 🔐 **Upfort (YC-backed)** — security engineering in cyber insurance
 - 🎓 **Stanford** — Advanced Cyber Security Program
 - 🚀 **DraperU** founder program
+- 🚀 **Nvidia** Inception program
 
 ## Tech arsenal
 
